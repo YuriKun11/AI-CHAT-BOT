@@ -15,6 +15,20 @@ npm i
 ```
 
 ```
+npm install @google/generative-ai
+```
+
+in case hanapin tong mga to:
+
+```
+npm install react-icons
+```
+
+```
+npm install framer-motion
+```
+
+```
 npm install vite --save-dev
 ```
 
